@@ -1,0 +1,37 @@
+.fruits {
+    border: 4px solid red;
+    text-align: center;
+    padding: 10px;
+    color: blue;
+}
+.car {
+    border: 4px solid aqua;
+    color: chartreuse;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+}
+.Fruits{
+    border: 4px solid red;
+    text-align: center;
+    padding: 10px;
+    color: blue;
+}
+#schools{
+     border: 4px solid red;
+    font-size: large;
+    color: red;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+
+}
+.myforms{
+    color: blueviolet;
+    font-family: "Chilanka";
+    font-size: x-large;
+    text-align: center;
+    border: 5px solid indigo;
+    background-color:darkturquoise;
+    background-image: url("black mafia.jpeg");
+}

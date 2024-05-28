@@ -1,0 +1,41 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+    overflow: hidden;
+}
+li{
+    float: left;
+
+}
+li a{
+    padding: 20px;
+    color: #ff66c0;
+    display: block;
+    text-decoration: none;
+    font-family:Chilanka;
+}
+h2{
+    font-family: "Abyssinica SIL";
+}
+p{
+    font-family: "aakar";
+    color: chartreuse;
+    font-size: large;
+}
+body{
+    background-image:url ("Assets/images/mc.jpeg");
+
+}
+th,td{
+    border: 10px solid #196a23;
+    padding: 10px;
+    font-family: Chilanka;
+
+}
+table{
+border-collapse:collapse;
+    width: 100%;
+}
+
